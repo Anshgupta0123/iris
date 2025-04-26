@@ -67,3 +67,28 @@ The Iris dataset contains 150 samples with the following features:
 - Jupyter Notebook
 - Install dependencies:
 
+## ⚡ Quickstart
+
+### 1. Install Requirements
+
+pip install numpy pandas scikit-learn matplotlib seaborn
+
+text
+
+### 2. Run the Notebook
+
+- Download `IRIS_FLOWER_PREDICTION.ipynb`.
+- Open a terminal and start Jupyter Notebook:
+
+jupyter notebook
+
+text
+
+- Open the notebook file in your browser.
+
+### 3. Execute
+
+- Run all cells in order.
+- To predict a new flower, change the input values in the prediction cell and run it.
+
+---
